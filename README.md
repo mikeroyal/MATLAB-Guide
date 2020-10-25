@@ -12,7 +12,17 @@
 
 [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
 
-[Get Started with MATLAB ](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
+[Getting Started with MATLAB ](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
+
+[MATLAB and Simulink Training from MATLAB Academy](https://matlabacademy.mathworks.com)
+
+[MathWorks Certification Program](https://www.mathworks.com/services/training/certification.html)
+
+[MATLAB Online Courses from Udemy](https://www.udemy.com/topic/matlab/)
+
+[MATLAB Online Courses from Coursera](https://www.coursera.org/courses?query=matlab)
+
+[MATLAB Online Courses from edX](https://www.edx.org/learn/matlab)
 
 [Building a MATLAB GUI](https://www.mathworks.com/discovery/matlab-gui.html)
 
