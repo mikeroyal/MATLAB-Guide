@@ -6,7 +6,14 @@
 
 #### A guide covering MATLAB including the applications and tools that will make you a better and more efficient MATLAB developer.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117723231-ffd08b00-b196-11eb-969c-49144ce1e5f6.png">
+  <br />
+</p>
+
+## MATLAB Learning Resources
 
 [MATLAB](https://www.mathworks.com/products/matlab.html) is a programming language that does numerical computing such as expressing matrix and array mathematics directly.
 
@@ -36,7 +43,7 @@
 
 [PRMLT](http://prml.github.io/) is Matlab code for machine learning algorithms in the PRML book.
 
-## Tools
+## MATLAB Tools
 
 [MATLAB Online](https://matlab.mathworks.com) allows to users to uilitize MATLAB and Simulink through a web browser such as Google Chrome.
 
@@ -59,3 +66,12 @@
 [YALMIP](https://yalmip.github.io/) is a MATLAB toolbox for optimization modeling.
 
 [GNU Octave](https://www.gnu.org/software/octave/) is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/MATLAB-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
