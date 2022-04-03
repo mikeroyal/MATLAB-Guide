@@ -37,7 +37,7 @@
 
 11. [Photogrammetry](https://github.com/mikeroyal/MATLAB-Guide#photogrammetry-development)
 
-12. [CUDA Development](https://github.com/mikeroyal/https://github.com/mikeroyal/MATLAB-Guide#cuda-development)
+12. [CUDA Development](https://github.com/mikeroyal/MATLAB-Guide#cuda-development)
 
 13. [Linear Algebra](https://github.com/mikeroyal/MATLAB-Guide#linear-algebra)
 
