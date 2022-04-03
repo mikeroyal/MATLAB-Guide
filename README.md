@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [MATLAB Learning Resources](https://github.com/mikeroyal/MATLAB-Guide#MATLAB-Learning-Reosurces)
+1. [MATLAB Learning Resources](https://github.com/mikeroyal/MATLAB-Guide#MATLAB-Learning-Resources)
 
 2. [MATLAB Tools](https://github.com/mikeroyal/MATLAB-Guide#MATLAB-Tools)
 
@@ -33,11 +33,11 @@
 
 9. [Robotics](https://github.com/mikeroyal/MATLAB-Guide#robotics)
 
-10. [LiDAR](https://github.com/mikeroyal/MATLAB-Guide#lidar)
+10. [LiDAR](https://github.com/mikeroyal/MATLAB-Guide#lidar-development)
 
-11. [Photogrammetry](https://github.com/mikeroyal/MATLAB-Guide#photogrammetry)
+11. [Photogrammetry](https://github.com/mikeroyal/MATLAB-Guide#photogrammetry-development)
 
-12. [CUDA Development](https://github.com/mikeroyal/https://github.com/mikeroyal/MATLAB-Guide#-Guide#cuda-development)
+12. [CUDA Development](https://github.com/mikeroyal/https://github.com/mikeroyal/MATLAB-Guide#cuda-development)
 
 13. [Linear Algebra](https://github.com/mikeroyal/MATLAB-Guide#linear-algebra)
 
